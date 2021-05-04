@@ -1,13 +1,3 @@
 # test-github-bot
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
+
+This repo is only use for testing my Github bot.
